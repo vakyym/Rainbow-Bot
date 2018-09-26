@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\bin\Debug\netcoreapp2.1\Rainbow.deps.json
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\bin\Debug\netcoreapp2.1\Rainbow.runtimeconfig.json
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\bin\Debug\netcoreapp2.1\Rainbow.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\bin\Debug\netcoreapp2.1\Rainbow.dll
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\obj\Debug\netcoreapp2.1\Rainbow.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\obj\Debug\netcoreapp2.1\Rainbow.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\obj\Debug\netcoreapp2.1\Rainbow.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\obj\Debug\netcoreapp2.1\Rainbow.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\bin\Debug\netcoreapp2.1\Rainbow.pdb
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\obj\Debug\netcoreapp2.1\Rainbow.dll
+C:\Users\Owner\Desktop\Github\Rainbow\Rainbow\obj\Debug\netcoreapp2.1\Rainbow.pdb
