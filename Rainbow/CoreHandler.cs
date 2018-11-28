@@ -16,7 +16,8 @@ namespace Role.Handlers
         }
         public async Task InitializeAsync()
         {
-            await Client.LoginAsync(TokenType.Bot, "NDkwOTMwOTYzMzQyNDI2MTEz.DoAq2g.KtsIt06xiFu9pxi-LAgLiqOhb_I").ConfigureAwait(false);
+            // bot token goes in (TokenType.Bot, "")
+            await Client.LoginAsync(TokenType.Bot, "").ConfigureAwait(false);
             await Client.StartAsync().ConfigureAwait(false);
             StartRoleService();
         }
@@ -28,7 +29,8 @@ namespace Role.Handlers
                 {
                     Task.Run(async () =>
                     {
-                        var Guild = Client.GetGuild(334099272473509898) as SocketGuild;
+                        // server id goes in GetGuild() 
+                        var Guild = Client.GetGuild() as SocketGuild;
                         var Role = Guild.Roles.Where(x => x.Name == "?").FirstOrDefault() as SocketRole;
                         await Role.ModifyAsync(x => x.Color = new Color(240, 62, 62));
                         Thread.Sleep(15000);
